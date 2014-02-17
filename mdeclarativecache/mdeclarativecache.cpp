@@ -17,6 +17,7 @@
 **
 ****************************************************************************/
 
+#include <unistd.h>
 #include <Qt/QtDeclarative>
 #include <QX11Info>
 #include <QtPlugin>
